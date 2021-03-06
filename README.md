@@ -3,7 +3,7 @@
 
 PCOTは、[ぬるっぽ](https://twitter.com/pcotnullpo)様の開発している翻訳支援ツールです。
 
-ぬるっぽ様の了承を得て、代理でソースGitHubに公開しています。
+ぬるっぽ様の了承を得て、代理でソースをGitHubに公開しています。
 ![pcot](https://user-images.githubusercontent.com/10492222/110198011-b14ef980-7e92-11eb-907e-5771a79f2b30.jpg)
 
 ## ビルドと起動
